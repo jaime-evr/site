@@ -1,0 +1,20 @@
+$light-purple: #D8D8F6;
+$dark: #01060A;
+$strong-purple: #23022E;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none
+}
+
+body {
+  background-color: $light-purple;
+  color: $dark;
+  font-family: 'Comfortaa', cursive;
+}
+
+li { list-style: none; }
